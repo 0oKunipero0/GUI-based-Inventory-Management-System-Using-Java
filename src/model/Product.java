@@ -5,9 +5,6 @@ import javafx.collections.ObservableList;
 
 /**
  * @Author:     Kun Xie
- * @StudentID:  001332645
- * @Class:      Software I - C482
- * @School:     WGU
  */
 
 /**This is the Product class, it includes the ObservableList of associated parts.  */

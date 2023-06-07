@@ -11,11 +11,8 @@ import javafx.scene.Scene;
 import javafx.stage.Stage;
 /**
  * @author: Kun Xie
- * @StudentID:  001332645
- * @Class:      Software I - C482
- * @School:     WGU
  * 
- * JAVADOC LOCATION: WGU - Software 1 C482/dist/javadoc/index.html
+ * JAVADOC LOCATION: dist/javadoc/index.html
  */
 
 

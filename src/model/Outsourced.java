@@ -2,9 +2,6 @@ package model;
 
 /**
  * @Author:     Kun Xie
- * @StudentID:  001332645
- * @Class:      Software I - C482
- * @School:     WGU
  */
 
 /**This a subclass contains parts that are marked as OutSourced. */

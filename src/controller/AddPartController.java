@@ -19,9 +19,6 @@ import java.util.ResourceBundle;
 
 /**
  * @Author:     Kun Xie
- * @StudentID:  001332645
- * @Class:      Software I - C482
- * @School:     WGU
  */
 
 

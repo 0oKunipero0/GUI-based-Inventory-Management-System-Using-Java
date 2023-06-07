@@ -24,9 +24,6 @@ import java.util.ResourceBundle;
 
 /**
  * @Author:     Kun Xie
- * @StudentID:  001332645
- * @Class:      Software I - C482
- * @School:     WGU
  */
 
 /**This class is used to implement controller for the ModifyProduct form. */
